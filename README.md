@@ -1,2 +1,4 @@
 # Contract-Address-Calc
-a simple web utility for precomputing ethereum contract addresses
+A simple web utility for precomputing Ethereum contract addresses. Available at https://contractaddresscalc.surge.sh/
+
+Note: `CREATE2` not supported
